@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="<?= base_url(); ?>assets/css/bootstrapcss/bootstrap.min.css" rel="stylesheet" >
+    <link href="<?= base_url(); ?>assets/css/bootstrap.min.css" rel="stylesheet" >
 
     <title>Hello, world!</title>
   </head>
